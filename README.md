@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a COVID19 Screening Station at Embedded System Laboratory, KMITL.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
+- 📫 How to reach me: timefear007@gmail.com
+- ⚡ Fun fact: I'm a trekkie. I love coffee. I love to photograph with a film camera.

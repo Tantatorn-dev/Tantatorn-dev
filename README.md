@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
 - 📫 How to reach me: timefear007@gmail.com
-- ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot with a film camera.
+- ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.

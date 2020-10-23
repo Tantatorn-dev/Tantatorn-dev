@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
 - 📫 How to reach me: timefear007@gmail.com
 - ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.
+
+![Tantatorn-dev's github stats](https://github-readme-stats.vercel.app/api?username=Tantatorn-dev&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tantatorn-dev)]

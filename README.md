@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Smart Refrigerator MKII
+- 🔭 I’m currently working as a research assistant intern at CMKL University.
 - 🌱 I’m currently learning Hadoop, Spark, K8S
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
 - 📫 How to reach me: timefear007@gmail.com

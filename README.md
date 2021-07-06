@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working as a research assistant intern at CMKL University.
-- 🌱 I’m currently learning Hadoop, Spark, K8S
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
 - 📫 How to reach me: timefear007@gmail.com
 - ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.

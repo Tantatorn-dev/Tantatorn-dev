@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a research assistant intern at CMKL University.
+- 🔭 I’m currently working as a research assistant intern at CMKL University and a volunteer at TEDxCharoenkrung
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
 - 📫 How to reach me: timefear007@gmail.com

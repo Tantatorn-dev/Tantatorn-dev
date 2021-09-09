@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a research assistant intern at CMKL University and a volunteer at TEDxCharoenkrung
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
-- 📫 How to reach me: timefear007@gmail.com
+- 📫 How to reach me: tantatorns.work@gmail.com
 - ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.
 
 ![Tantatorn-dev's github stats](https://github-readme-stats.vercel.app/api?username=Tantatorn-dev&count_private=true)

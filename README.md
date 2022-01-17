@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a research assistant intern at CMKL University and a volunteer at TEDxCharoenkrung
+- 🔭 I’m currently working as a software engineer (Fullstack Web Development)
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on an End-to-End Machine Learning product.
+- 👯 I’m looking to collaborate on a dApp project (especially Terra or Ethereum Ecosystem).
 - 📫 How to reach me: tantatorns.work@gmail.com
 - ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a software engineer (Fullstack Web Development)
+- 🔭 I’m currently working as a software engineer (React, NextJS, Express, NestJS)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on a dApp project (especially Terra or Ethereum Ecosystem).
 - 📫 How to reach me: tantatorns.work@gmail.com

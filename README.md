@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a software engineer (React, NextJS, Express, NestJS)
+- 🔭 I’m currently working as a software engineer (React, NextJS, Golang)
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on a dApp project (especially Terra or Ethereum Ecosystem).
+- 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: tantatorns.work@gmail.com
 - ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.
 

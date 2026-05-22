@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Software Architecture, DDD, and cool stuffs
 - 👯 I’m looking to collaborate on cool projects
 - 📫 How to reach me: tantatorns.work@gmail.com
-- ⚡ Fun fact: I'm a trekkie. I love coffee. I love to shoot film.
+- ⚡ Fun fact: I'm a newbie trail runner. I love coffee. I love reading.
